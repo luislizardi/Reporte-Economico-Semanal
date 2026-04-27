@@ -1,2 +1,2 @@
-# Reporte-Econ-mico-Semanal
+# Reporte-Economico-Semanal
 Reporte económico semanal
